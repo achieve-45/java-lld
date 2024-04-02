@@ -7,7 +7,7 @@ public class Client extends Student{
         Student x = new Student();
         // private can't be accessed outside the class
 //        x.age = 45;
-        x.name = "Mohit";
+        x.name = "Achieve";
         x.batch = "Something";
         // default and protected can't be accessed outside the package
 //        x.psp = 90.0;
